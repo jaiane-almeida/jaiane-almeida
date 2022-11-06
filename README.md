@@ -1,16 +1,12 @@
 ## Olá Tech terráqueos! :alien: ##
 
-Meu nome é Jaiane, apaixonada por ciência, tecnologia e empreendedorismo! 
+Meu nome é Jaiane, sou apaixonada por ciência, tecnologia e empreendedorismo! 
 
 Busco aprender e me desenvolver na área de dados ou back-end, com bootcamps, projetos solos e futuramente em uma companhia que valorize inovação! :dizzy:
 
-Estou estudando: 
-
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-           
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" />
+Estou estudando:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" / <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" />
             
           
           
