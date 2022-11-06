@@ -2,24 +2,18 @@
 
 Meu nome é Jaiane, sou apaixonada por ciência, tecnologia e empreendedorismo! 
 
-Busco aprender e me desenvolver na área de dados ou back-end, com bootcamps, projetos solos e futuramente em uma companhia que valorize inovação! :dizzy:
+Busco aprender e me desenvolver na <b>área de dados ou back-end</b>, com bootcamps, projetos solos e futuramente em uma companhia que valorize inovação! :dizzy:
 
 Estou estudando:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" / <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" />
             
-          
-          
-
-
-
-
-
-
-
-- 🌱 I’m currently learning python and sql
-- 💞️ I’m looking to collaborate on with companies that seek to develop their professionails
-- 📫 How to reach me: jaianealmeid4@gmail.com
+Minhas redes de contato 
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+jaianealmeid4@gmail.com
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+ 
+ <img src="{BadgeURLHere}" />
 
 <!---
 jaiane-almeida/jaiane-almeida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
