@@ -1,10 +1,26 @@
- Ferramentas e Tecnologias<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
- 
+## Olá Tech terráqueos! :alien: ##
+
+Meu nome é Jaiane, apaixonada por ciência, tecnologia e empreendedorismo! 
+
+Busco aprender e me desenvolver na área de dados ou back-end, com bootcamps, projetos solos e futuramente em uma companhia que valorize inovação! :dizzy:
+
+Estou estudando: 
+
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+           
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" />
+            
+          
+          
 
 
 
-- 👋 Hi, I’m Jaiane
-- 👀 I’m interested in tecnology, inovation and science 
+
+
+
+
 - 🌱 I’m currently learning python and sql
 - 💞️ I’m looking to collaborate on with companies that seek to develop their professionails
 - 📫 How to reach me: jaianealmeid4@gmail.com
