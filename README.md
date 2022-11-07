@@ -5,7 +5,7 @@ Meu nome é Jaiane, sou apaixonada por ciência, tecnologia e empreendedorismo!
 Busco aprender e me desenvolver na <b>área de dados ou back-end</b>, com bootcamps, projetos solos e futuramente em uma companhia que valorize inovação! :dizzy:
 
 Estou estudando:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="400" height="790" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="80" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" width="400" height="790" />
             
