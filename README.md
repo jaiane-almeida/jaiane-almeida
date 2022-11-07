@@ -13,6 +13,7 @@ jaianealmeid4@gmail.com
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
  
  <img src="{BadgeURLHere}" />
+![image](https://user-images.githubusercontent.com/108701893/200414396-be222f20-2bcf-403e-a486-8642c8c83486.png)
 
 <!---
 jaiane-almeida/jaiane-almeida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
