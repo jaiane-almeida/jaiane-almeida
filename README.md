@@ -1,6 +1,4 @@
-![image](https://)
-
-<script src="https:user-images.githubusercontent.com/108701893/200414396-be222f20-2bcf-403e-a486-8642c8c83486.png"></script>
+![myimage-alt-tag] ![Imagem do WhatsApp de 2022-11-07 à(s) 17 58 58](https://user-images.githubusercontent.com/108701893/200418530-060ddbc0-a846-4cff-979d-c5fe20dcd303.jpg)
 
 ## Apaixonada por ciência, tecnologia e empreendedorismo! ##
 
