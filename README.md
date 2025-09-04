@@ -7,16 +7,17 @@ Busco aprender e conhecer a área de <b>embarcados </b>, em grupos de robótica,
 Entusiasta do idioma coreano 🇰🇷, astronomia 🌠 e livros de empreendedorismo! :rocket:
 
 
-Estou estudando/tenho familiaridade: 
+### Tecnologias que estou estudando:
 <p align="left">
   <!-- Linguagem C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
        alt="C" width="30" height="30"/>
-
+       
   <!-- Fusion 360 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autodesk/autodesk-original.svg" 
        alt="Fusion 360" width="30" height="30"/>
 </p>
+
 
           
 
