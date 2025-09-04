@@ -8,10 +8,16 @@ Entusiasta do idioma coreano 🇰🇷, astronomia 🌠 e livros de empreendedori
 
 
 Estou estudando/tenho familiaridade: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
-       alt="C" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autodesk/autodesk-original.svg" 
-       alt="Fusion 360" width="50" height="50"/>
+<p align="left">
+  <!-- Linguagem C -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
+       alt="C" width="30" height="30"/>
+
+  <!-- Fusion 360 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autodesk/autodesk-original.svg" 
+       alt="Fusion 360" width="30" height="30"/>
+</p>
+
           
 
 <a href ="https://www.linkedin.com/in/jaiane-almeida/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
